@@ -4,6 +4,14 @@
   <h3 align="center">A passionate Frontend Developer</h3>
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/leonaldo-pasaribu" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blank"
+  /></a>
+</div>
+
 <div align="center" style="display: inline_block">
   <br />
   <h3 align="center">Languages and Tools:</h3>
@@ -52,17 +60,6 @@
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://www.adobe.com/in/products/illustrator.html"
-      target="_blank"
-    >
-      <img
-        src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-        alt="illustrator"
         width="40"
         height="40"
       />
