@@ -1,7 +1,7 @@
 <div align="center" style="display: inline_block">
   <br />
   <h1 align="center">Hi 👋, I'm Leonaldo Jose</h1>
-  <h3 align="center">A passionate Frontend Developer</h3>
+  <h3 align="center">A passionate Frontend Engineer</h3>
 </div>
 
 <div align="center">
@@ -75,14 +75,6 @@
         height="40"
       />
     </a>
-    <a href="https://nextjs.org/" target="_blank">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
-        alt="nextjs"
-        width="40"
-        height="40"
-      />
-    </a>
     <a href="https://www.php.net" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -107,13 +99,17 @@
         height="40"
       />
     </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-        alt="xd"
+    <a href="https://angular.io/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  
+        alt="angular"
         width="40"
-        height="40"
-      />
+        height="40" />
+    </a>
+    <a href="https://nextjs.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+        alt="nextjs"
+        width="40"
+        height="40"/>
     </a>
   </p>
 </div>
