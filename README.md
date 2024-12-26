@@ -1,7 +1,7 @@
 <div align="center" style="display: inline_block">
   <br />
   <h1 align="center">Hi 👋, I'm Leonaldo Jose</h1>
-  <h3 align="center">A passionate Frontend Engineer</h3>
+  <h3 align="center">A passionate Front End Engineer</h3>
 </div>
 
 <div align="center">
@@ -100,7 +100,7 @@
       />
     </a>
     <a href="https://angular.io/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"  
         alt="angular"
         width="40"
         height="40" />
@@ -110,6 +110,12 @@
         alt="nextjs"
         width="40"
         height="40"/>
+    </a>
+      <a href="https://angular.io/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"  
+        alt="kotlin"
+        width="40"
+        height="40" />
     </a>
   </p>
 </div>
