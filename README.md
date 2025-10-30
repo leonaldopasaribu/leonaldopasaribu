@@ -1,6 +1,11 @@
 <div align="center" style="display: inline_block">
   <br />
   <h1 align="center">Hi 👋, I'm Leonaldo Jose</h1>
+    <a href="https://leonaldopasaribu.github.io" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white"
+      target="_blank"
+  /></a>
   <h3 align="center">A passionate Front End Engineer</h3>
 </div>
 
